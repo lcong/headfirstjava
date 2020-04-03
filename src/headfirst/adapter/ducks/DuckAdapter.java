@@ -1,6 +1,6 @@
 package headfirst.adapter.ducks;
 import java.util.Random;
-
+//this an example
 public class DuckAdapter implements Turkey {
 	Duck duck;
 	Random rand;
